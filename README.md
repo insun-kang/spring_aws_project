@@ -9,5 +9,5 @@ README는 배운것 위주로 작성할 예정입니다.
 
 ## Learned
 - [build.gradle](https://github.com/insun-kang/spring_aws_project/blob/master/build.gradle)
-- [SPRINGBOOT]()
+- [SPRINGBOOT](https://github.com/insun-kang/TIL/tree/main/SPRING)
 - [AWS]()
